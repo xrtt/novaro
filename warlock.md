@@ -66,6 +66,17 @@ DEX × 2 + INT = 530
 - [Skill simulator](https://irowiki.org/~himeyasha/skill4/wlk.html)
 - [4th jobs](https://www.divine-pride.net/forum/index.php?/topic/4672-kro-fourth-class-jobs-skills-info-and-related-items-updated-16092020/&tab=comments#comment-8022)
 
+### ![Radius](https://static.divine-pride.net/images/skill/2208.png) Radius
+
+- Passive
+- Max Level: 3
+
+Increase the casting range of Warlock skills, and reduce their Fixed Casting Time as well.
+
+- [Lv 1] : +1 Cell range, -10% Fixed Casting Time.
+- [Lv 2] : +2 Cell range, -15% Fixed Casting Time.
+- [Lv 3] : +3 Cell range, -20% Fixed Casting Time.
+
 ### ![Reading Spellbook](https://static.divine-pride.net/images/skill/2231.png) Reading Spellbook
 
 - Max Level: 1
@@ -108,6 +119,25 @@ These elemental balls can also be used for ![Tetra Vortex](https://static.divine
 
 - [Lv 1] : Summons 1 elemental ball, Duration 120 seconds.
 - [Lv 2] : Summons 5 elemental balls, Duration 280 seconds.
+
+### ![Recognized Spell](https://static.divine-pride.net/images/skill/2206.png) Recognized Spell
+
+- Max Level: 5
+- Target: Self
+- SP Cost: 80 + (20 x Skill Level)
+- Var. Cast Time: 1.0s
+- Fixed Cast Time: 1.0s
+- Cast Delay: 1.0s
+- Cool Down: 20s + (30 x Skill Level)
+
+Increase you damage capabilities by always using the highest possible MATK variance, letting you deal the maximum amount of magical damage every time you cast a skill.
+However, it also increases the SP Consumption of all skills by 25%.
+
+- [Lv 1] : Duration 60 seconds.
+- [Lv 2] : Duration 90 seconds.
+- [Lv 3] : Duration 120 seconds.
+- [Lv 4] : Duration 150 seconds.
+- [Lv 5] : Duration 180 seconds.
 
 ### ![Crimson Rock](https://static.divine-pride.net/images/skill/2211.png) Crimson Rock
 
@@ -168,7 +198,7 @@ Damage (MATK) = [(Base_Damage × Base_Level ÷ 100)]%
 
 ### ![Tetra Vortex](https://static.divine-pride.net/images/skill/2217.png) Tetra Vortex
 
-- Max Level: 5
+- Max Level: 10
 - Target: Enemy
 - SP Cost: 90 + (30 x Skill Level)
 - Var. Cast Time: 4s + (Skill Level)
