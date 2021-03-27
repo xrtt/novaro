@@ -240,3 +240,4 @@ Each element of Tetra Vortex also has a chance to apply a different status effec
 - [NovaRO wiki - Warlock](https://www.novaragnarok.com/wiki/Warlock)
 - [NovaRO wiki - Mayo's Warlock Guide](https://www.novaragnarok.com/wiki/Mayo%27s_Warlock_Guide)
 - [iRO wiki - Warlock](https://irowiki.org/wiki/Warlock)
+- [3rd Job Improvement Patch](https://www.novaragnarok.com/forum/news/kro-job-improvement-patch-notes-155-r331/)
