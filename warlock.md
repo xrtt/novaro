@@ -237,7 +237,6 @@ Each element of Tetra Vortex also has a chance to apply a different status effec
 - [Temporal Boots](https://www.novaragnarok.com/wiki/Temporal_Boots)
 - [Illusion Equipments and Enchants (17.1)](https://www.novaragnarok.com/wiki/Illusion_Equipments_and_Enchants_(17.1))
 - [Automatic Equipments and Enchants (17.2)](https://www.novaragnarok.com/wiki/Automatic_Equipments_and_Enchants_(17.2))
-- [Cards (17.2)](https://www.novaragnarok.com/wiki/Cards_(17.2))
 - [Edda Bioresearch Laboratory Equip](https://www.novaragnarok.com/wiki/Bioresearch_Laboratory#Equipment)
 - [Odin's Temple 4 / Odin's Past Equip (Soutanes)](https://www.novaragnarok.com/wiki/Odin%27s_Temple_4_/_Odin%27s_Past#Obtainable_Equipment)
 - [Einbech Dungeon 3 Equip](https://www.novaragnarok.com/wiki/Einbech_Dungeon_3#Obtainable_Equipment)
@@ -245,6 +244,8 @@ Each element of Tetra Vortex also has a chance to apply a different status effec
 - [Sky Fortress Eqip (Vicious Weapons)](https://www.novaragnarok.com/wiki/Sky_Fortress#Vicious_Weapons)
 - [Fall of Glast Heim Eqip (King Schmidt's Set)](https://www.novaragnarok.com/wiki/Fall_of_Glast_Heim#Equipment)
 - [Tomb of the Fallen Equp (Old Classes' Headgears)](https://www.novaragnarok.com/wiki/Tomb_of_the_Fallen#Rewards_and_Equipment_Crafting)
+- [Legacy of Glast Heim Eqip (Temporal Stat Manteaus)](https://www.novaragnarok.com/wiki/Temporal_Stat_Manteaus)
+- [Cards (17.2)](https://www.novaragnarok.com/wiki/Cards_(17.2))
 
 ## See also
 
