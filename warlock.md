@@ -128,7 +128,7 @@ Damage (MATK) = [{Base_Damage × (BaseLevel ÷ 100)}]%
 - [Automatic Equipments and Enchants (17.2)](https://www.novaragnarok.com/wiki/Automatic_Equipments_and_Enchants_(17.2))
 - [Cards (17.2)](https://www.novaragnarok.com/wiki/Cards_(17.2))
 - [Edda Bioresearch Laboratory Equip](https://www.novaragnarok.com/wiki/Bioresearch_Laboratory#Equipment)
-- [Odin's Temple 4 / Odin's Past Equip](https://www.novaragnarok.com/wiki/Odin%27s_Temple_4_/_Odin%27s_Past#Obtainable-Equipment)
+- [Odin's Temple 4 / Odin's Past Equip](https://www.novaragnarok.com/wiki/Odin%27s_Temple_4_/_Odin%27s_Past#Obtainable_Equipment)
 - 
 
 ## See also
