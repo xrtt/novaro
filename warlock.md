@@ -77,7 +77,24 @@ DEX × 2 + INT = 530
 
 Allows you to read Spell Books to store spells in your mind, letting you later use them with ![Release](https://static.divine-pride.net/images/skill/2230.png) Release to cast the spell instantly.
 
+### ![Summon Fire Ball](https://static.divine-pride.net/images/skill/2222.png) Summon Fire Ball
+
+- Max Level: 2
+- Target: Self
+- SP Cost: 2 + (8 x Skill Level)
+- Var. Cast Time: 2.0s
+
+Summon a Fire elemental ball that will float around you, and continuously drain SP while active.
+The Fire ball can later be thrown at an enemy using ![Release](https://static.divine-pride.net/images/skill/2230.png) Release, where it will deal Fire property magic damage to a single target.
+
+A Maximum of 5 elemental balls can be summoned at a time.
+These elemental balls can also be used for ![Tetra Vortex](https://static.divine-pride.net/images/skill/2222.png) Tetra Vortex to make one of the skills hits deal Fire property magic damage.
+
+[Lv 1] : Summons 1 elemental ball, Duration 120 seconds.
+[Lv 2] : Summons 5 elemental balls, Duration 280 seconds.
+
 ### ![Crimson Rock](https://static.divine-pride.net/images/skill/2211.png) Crimson Rock
+
 - Max Level: 5
 - Target: Enemy
 - SP Cost: 50 + (10 x Skill Level)
