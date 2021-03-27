@@ -1,8 +1,8 @@
 # Warlock
 
-> TODO:
-> [ ] Skill build
-> [ ] Equipment
+TODO:
+[ ] Skill build
+[ ] Equipment
 
 ## Content
 
