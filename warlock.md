@@ -1,5 +1,12 @@
 # Warlock
 
+## Content
+- [Mind slots](#Mind-slots)
+- [Stats](#Stats)
+- [Skills](#Skills)
+- [Equipment](#Equipment)
+- [See also](#See-also)
+
 ## Mind slots
 
 ```math
@@ -47,3 +54,8 @@ So we need `12 * 7 = 84` or `22 * 4 = 88` slots.
 ## Skills
 
 ## Equipment
+
+## See also
+- [NovaRO wiki - Warlock](https://www.novaragnarok.com/wiki/Warlock)
+- [NovaRO wiki - Mayo's Warlock Guide](https://www.novaragnarok.com/wiki/Mayo%27s_Warlock_Guide)
+- [iRO wiki - Warlock](https://irowiki.org/wiki/Warlock)
