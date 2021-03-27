@@ -23,6 +23,15 @@ So we need `12 * 7 = 84` or `22 * 4 = 88` slots.
 
 ## Stats
 
+| `baseLvl` | 99 | 200 |
+| --------- | -- | --- |
+| `STR`     | 1  | 1   |
+| `AGI`     | 1  | 1   |
+| `VIT`     | 60 | 90  |
+| `INT`     | 90 | 120 |
+| `DEX`     | 90 | 120 |
+| `LUK`     | 1  | 60  |
+
 ## Skills
 
 ## Equipment
