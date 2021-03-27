@@ -65,6 +65,33 @@ Increase the casting range of Warlock skills, and reduce their Fixed Casting Tim
 - [Lv 2] : +2 Cell range, -15% Fixed Casting Time.
 - [Lv 3] : +3 Cell range, -20% Fixed Casting Time.
 
+### ![Freezing Spell](https://static.divine-pride.net/images/skill/2232.png) Freezing Spell
+
+- Passive
+- Max Level: 10
+
+Increase the number of Mind Slots available.
+
+Mind Slots determine the amount of spells you can store using ![Reading Spellbook](https://static.divine-pride.net/images/skill/2231.png).
+You can find you total mind slots and currently held spells with the `@battlestats` command ingame.
+
+- [Lv 1] : +8 Mind Slots.
+- [Lv 2] : +16 Mind Slots.
+- [Lv 3] : +24 Mind Slots.
+- [Lv 4] : +32 Mind Slots.
+- [Lv 5] : +40 Mind Slots.
+- [Lv 6] : +48 Mind Slots.
+- [Lv 7] : +56 Mind Slots.
+- [Lv 8] : +64 Mind Slots.
+- [Lv 9] : +72 Mind Slots.
+- [Lv10] : +80 Mind Slots.
+
+The formula to calculate mind slots is:
+
+```
+(Freezing Spell Level × 8) + Floor(Base Level ÷ 10) + Floor(Total INT ÷ 10)
+```
+
 ### ![Reading Spellbook](https://static.divine-pride.net/images/skill/2231.png) Reading Spellbook
 
 - Max Level: 1
