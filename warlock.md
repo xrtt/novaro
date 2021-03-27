@@ -1,6 +1,7 @@
 # Warlock
 
 ## Content
+
 - [Mind slots](#Mind-slots)
 - [Stats](#Stats)
 - [Skills](#Skills)
@@ -53,9 +54,13 @@ So we need `12 * 7 = 84` or `22 * 4 = 88` slots.
 
 ## Skills
 
+- [Skill simulator](https://irowiki.org/~himeyasha/skill4/wlk.html)
+- [4th jobs](https://www.divine-pride.net/forum/index.php?/topic/4672-kro-fourth-class-jobs-skills-info-and-related-items-updated-16092020/&tab=comments#comment-8022)
+
 ## Equipment
 
 ## See also
+
 - [NovaRO wiki - Warlock](https://www.novaragnarok.com/wiki/Warlock)
 - [NovaRO wiki - Mayo's Warlock Guide](https://www.novaragnarok.com/wiki/Mayo%27s_Warlock_Guide)
 - [iRO wiki - Warlock](https://irowiki.org/wiki/Warlock)
