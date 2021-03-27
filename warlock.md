@@ -21,8 +21,9 @@ mindSlots = freezingSpell * 4 + floor(baseLvl / 10) + floor (INT / 10)
 > In NovaRO, `freezingSpell` has `x8` mod.
 
 Max you can have 7 spells in mind.
-`Crimson Rock` requires 12 slots,
-`Comet` and `Tetra Vortex` both require 22 slots.
+![Crimson Rock](https://static.divine-pride.net/images/skill/2211.png) Crimson Rock requires 12 slots,
+![Comet](https://static.divine-pride.net/images/skill/2213.png) Comet and
+![Tetra Vortex](https://static.divine-pride.net/images/skill/2217.png) Tetra Vortex both require 22 slots.
 So we need `12 * 7 = 84` or `22 * 4 = 88` slots.
 
 | `freezingSpell` | `baseLvl` | `INT` | Total |
@@ -72,7 +73,7 @@ Increase the casting range of Warlock skills, and reduce their Fixed Casting Tim
 
 Increase the number of Mind Slots available.
 
-Mind Slots determine the amount of spells you can store using ![Reading Spellbook](https://static.divine-pride.net/images/skill/2231.png).
+Mind Slots determine the amount of spells you can store using ![Reading Spellbook](https://static.divine-pride.net/images/skill/2231.png) Reading Spellbook.
 You can find you total mind slots and currently held spells with the `@battlestats` command ingame.
 
 - [Lv 1] : +8 Mind Slots.
