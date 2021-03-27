@@ -1,1 +1,3 @@
 # novaro
+
+- [Warlock](warlock.md)
