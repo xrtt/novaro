@@ -35,25 +35,14 @@ So we need `12 * 7 = 84` or `22 * 4 = 88` slots.
 
 ## Stats
 
-| `baseLvl` | 99 | 200 |
-| --------- | -- | --- |
-| `STR`     | 1  | 1   |
-| `AGI`     | 1  | 90  |
-| `VIT`     | 60 | 90  |
-| `INT`     | 90 | 120 |
-| `DEX`     | 90 | 120 |
-| `LUK`     | 1  | 90  |
-
-`jobLvl` bonuses:
-
-| `jobLvl` | 70 |
-| -------- | -- |
-| `STR`    | 1  |
-| `AGI`    | 7  |
-| `VIT`    | 8  |
-| `INT`    | 15 |
-| `DEX`    | 8  |
-| `LUK`    | 4  |
+| `baseLvl` | 99 | 200 | `jobLvl` bonuses | 70 |
+| --------- | -- | --- | ---------------: | -- |
+| `STR`     | 1  | 1   | +                | 1  |
+| `AGI`     | 1  | 90  | +                | 7  |
+| `VIT`     | 60 | 90  | +                | 8  |
+| `INT`     | 90 | 120 | +                | 15 |
+| `DEX`     | 90 | 120 | +                | 8  |
+| `LUK`     | 1  | 90  | +                | 4  |
 
 > Note - To reach zero Variable Cast Time with stats only, the following formula has to be used:
 >```
