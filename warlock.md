@@ -63,6 +63,15 @@ So we need `12 * 7 = 84` or `22 * 4 = 88` slots.
 
 ### ![Reading Spellbook](https://static.divine-pride.net/images/skill/2231.png) Reading Spellbook
 
+Max Level: 1
+Target: Passive, Self
+SP Cost: 40
+Var. Cast Time: 5.0s
+Fixed Cast Time: 1.0s
+Cast Delay: 0.5s
+
+Allows you to read Spell Books to store spells in your mind, letting you later use them with ![Release](https://static.divine-pride.net/images/skill/2230.png) Release to cast the spell instantly.
+
 ## Equipment
 
 ## See also
