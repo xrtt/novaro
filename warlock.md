@@ -172,13 +172,13 @@ All targets hit will also receive 'Magic Intoxication' status for 20 seconds. Wh
 
 This skills damage is increased based on the casters Base Level.
 
-- [Lv 1] : 3000% MATK.
-- [Lv 2] : 3500% MATK.
-- [Lv 3] : 4000% MATK.
-- [Lv 4] : 4500% MATK.
-- [Lv 5] : 5000% MATK.
+- [Lv 1] : 3200% MATK.
+- [Lv 2] : 3900% MATK.
+- [Lv 3] : 4600% MATK.
+- [Lv 4] : 5300% MATK.
+- [Lv 5] : 6000% MATK.
 
-Damage is based on the following formula;
+Damage is based on the following formula:
 
 ```
 Damage (MATK) = [(Base_Damage × Base_Level ÷ 100)]%
@@ -202,16 +202,16 @@ This spell requires you to have 4 elemental balls summoned, and consumes them al
 You can mix the elements of this spell,
 For example if you used Fire, Fire, Water, Wind element balls to cast the spell, it would deal Fire damage on the first and second hit, Water damage on the third, and Wind on the fourth hit.
 
-- [Lv 1] : 1000% MATK per hit, 1x1 Area of effect.
-- [Lv 2] : 1500% MATK per hit, 1x1 Area of effect.
+- [Lv 1] : 1200% MATK per hit, 1x1 Area of effect.
+- [Lv 2] : 1600% MATK per hit, 1x1 Area of effect.
 - [Lv 3] : 2000% MATK per hit, 1x1 Area of effect.
-- [Lv 4] : 2500% MATK per hit, 1x1 Area of effect.
-- [Lv 5] : 3000% MATK per hit, 1x1 Area of effect.
+- [Lv 4] : 2400% MATK per hit, 1x1 Area of effect.
+- [Lv 5] : 2800% MATK per hit, 1x1 Area of effect.
 - [Lv 6] : 3200% MATK per hit, 3x3 Area of effect.
-- [Lv 7] : 3400% MATK per hit, 3x3 Area of effect.
-- [Lv 8] : 3600% MATK per hit, 5x5 Area of effect.
-- [Lv 9] : 3800% MATK per hit, 5x5 Area of effect.
-- [Lv10] : 4000% MATK per hit, 7x7 Area of effect.
+- [Lv 7] : 3600% MATK per hit, 3x3 Area of effect.
+- [Lv 8] : 4000% MATK per hit, 5x5 Area of effect.
+- [Lv 9] : 4400% MATK per hit, 5x5 Area of effect.
+- [Lv10] : 4800% MATK per hit, 7x7 Area of effect.
 
 Each element of Tetra Vortex also has a chance to apply a different status effect on the target.
 
