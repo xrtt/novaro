@@ -129,7 +129,8 @@ Damage (MATK) = [{Base_Damage × (BaseLevel ÷ 100)}]%
 - [Cards (17.2)](https://www.novaragnarok.com/wiki/Cards_(17.2))
 - [Edda Bioresearch Laboratory Equip](https://www.novaragnarok.com/wiki/Bioresearch_Laboratory#Equipment)
 - [Odin's Temple 4 / Odin's Past Equip](https://www.novaragnarok.com/wiki/Odin%27s_Temple_4_/_Odin%27s_Past#Obtainable_Equipment)
-- 
+- [Einbech Dungeon 3 Equip](https://www.novaragnarok.com/wiki/Einbech_Dungeon_3#Obtainable_Equipment)
+- [Abyss Dungeon 4 Equip](https://www.novaragnarok.com/wiki/Abyss_Dungeon_4#Obtainable_Equipment)
 
 ## See also
 
