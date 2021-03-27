@@ -1,5 +1,9 @@
 # Warlock
 
+> TODO:
+> [ ] Skill build
+> [ ] Equipment
+
 ## Content
 
 - [Mind slots](#Mind-slots)
