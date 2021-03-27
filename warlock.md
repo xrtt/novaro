@@ -77,6 +77,22 @@ DEX × 2 + INT = 530
 
 Allows you to read Spell Books to store spells in your mind, letting you later use them with ![Release](https://static.divine-pride.net/images/skill/2230.png) Release to cast the spell instantly.
 
+### ![Release](https://static.divine-pride.net/images/skill/2230.png) Release
+
+- Max Level: 2
+- Target: Enemy
+- SP Cost:
+  - (Lv 1) : 3
+  - (Lv 2) : 20
+- Range: 11
+
+Allows you to release stored magic, or fling elemental balls at targets.
+
+Elemental ball damage is increased based on the casters Base Level, and Job Level.
+
+- [Lv 1] : Instantly cast a randomly selected spell that was stored with 2231.png Reading Spellbook. If there are no spells stored, use one elemental ball to strike a target.
+- [Lv 2] : Release all summoned elemental balls to strike a target with magic damage of the elemental ball type.
+
 ### ![Summon Fire Ball](https://static.divine-pride.net/images/skill/2222.png) Summon Fire Ball
 
 - Max Level: 2
@@ -90,8 +106,8 @@ The Fire ball can later be thrown at an enemy using ![Release](https://static.di
 A Maximum of 5 elemental balls can be summoned at a time.
 These elemental balls can also be used for ![Tetra Vortex](https://static.divine-pride.net/images/skill/2222.png) Tetra Vortex to make one of the skills hits deal Fire property magic damage.
 
-[Lv 1] : Summons 1 elemental ball, Duration 120 seconds.
-[Lv 2] : Summons 5 elemental balls, Duration 280 seconds.
+- [Lv 1] : Summons 1 elemental ball, Duration 120 seconds.
+- [Lv 2] : Summons 5 elemental balls, Duration 280 seconds.
 
 ### ![Crimson Rock](https://static.divine-pride.net/images/skill/2211.png) Crimson Rock
 
@@ -110,17 +126,81 @@ All targets hit by the meteor will be knocked back 3 cells.
 
 This skills damage is increased based on the casters Base Level.
 
-[Lv 1] : 1300% MATK.
-[Lv 2] : 1900% MATK.
-[Lv 3] : 2500% MATK.
-[Lv 4] : 3100% MATK.
-[Lv 5] : 3700% MATK.
+- [Lv 1] : 1300% MATK.
+- [Lv 2] : 1900% MATK.
+- [Lv 3] : 2500% MATK.
+- [Lv 4] : 3100% MATK.
+- [Lv 5] : 3700% MATK.
 
 Damage is based on the following formula:
 
 ```
 Damage (MATK) = [{Base_Damage × (BaseLevel ÷ 100)}]%
 ```
+
+### ![Comet](https://static.divine-pride.net/images/skill/2213.png) Comet
+	
+- Max Level: 5
+- Target: Ground
+- SP Cost: 400 + (80 x Skill Level)
+- Var. Cast Time: 5s + (Skill Level)
+- Fixed Cast Time: 2.0s
+- Cast Delay: 1.5s
+- Cool Down: 20.0s
+- Range: 11
+
+Drop a massive 13x13 Comet from the depths of space, dealing Neutral property magic damage to all enemies in range.
+All targets hit will also receive 'Magic Intoxication' status for 20 seconds. While under this status targets will have -50% resistance to All Properties of attacks.
+
+This skills damage is increased based on the casters Base Level.
+
+- [Lv 1] : 3000% MATK.
+- [Lv 2] : 3500% MATK.
+- [Lv 3] : 4000% MATK.
+- [Lv 4] : 4500% MATK.
+- [Lv 5] : 5000% MATK.
+
+Damage is based on the following formula;
+
+```
+Damage (MATK) = [(Base_Damage × Base_Level ÷ 100)]%
+```
+
+### ![Tetra Vortex](https://static.divine-pride.net/images/skill/2217.png) Tetra Vortex
+
+- Max Level: 5
+- Target: Enemy
+- SP Cost: 90 + (30 x Skill Level)
+- Var. Cast Time: 4s + (Skill Level)
+- Fixed Cast Time: 2.0s
+- Cast Delay: 2.0s
+- Cool Down: 15.0s
+- Range: 11
+
+Strike a small area around a target with the power of the core elements. This damage is divided into 4 hits, each hit will take the elemental property from on of the consumed elemental balls used to cast the skill.
+
+This spell requires you to have 4 elemental balls summoned, and consumes them all on cast.
+
+You can mix the elements of this spell,
+For example if you used Fire, Fire, Water, Wind element balls to cast the spell, it would deal Fire damage on the first and second hit, Water damage on the third, and Wind on the fourth hit.
+
+- [Lv 1] : 1000% MATK per hit, 1x1 Area of effect.
+- [Lv 2] : 1500% MATK per hit, 1x1 Area of effect.
+- [Lv 3] : 2000% MATK per hit, 1x1 Area of effect.
+- [Lv 4] : 2500% MATK per hit, 1x1 Area of effect.
+- [Lv 5] : 3000% MATK per hit, 1x1 Area of effect.
+- [Lv 6] : 3200% MATK per hit, 3x3 Area of effect.
+- [Lv 7] : 3400% MATK per hit, 3x3 Area of effect.
+- [Lv 8] : 3600% MATK per hit, 5x5 Area of effect.
+- [Lv 9] : 3800% MATK per hit, 5x5 Area of effect.
+- [Lv10] : 4000% MATK per hit, 7x7 Area of effect.
+
+Each element of Tetra Vortex also has a chance to apply a different status effect on the target.
+
+- [Fire Element] -- Burning status
+- [Wind Element] -- Stun status
+- [Water Element] -- Freezing status
+- [Earth Element] -- Bleeding status
 
 ## Equipment
 
