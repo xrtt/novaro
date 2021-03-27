@@ -68,14 +68,42 @@ DEX × 2 + INT = 530
 
 ### ![Reading Spellbook](https://static.divine-pride.net/images/skill/2231.png) Reading Spellbook
 
-Max Level: 1
-Target: Passive, Self
-SP Cost: 40
-Var. Cast Time: 5.0s
-Fixed Cast Time: 1.0s
-Cast Delay: 0.5s
+- Max Level: 1
+- Target: Passive, Self
+- SP Cost: 40
+- Var. Cast Time: 5.0s
+- Fixed Cast Time: 1.0s
+- Cast Delay: 0.5s
 
 Allows you to read Spell Books to store spells in your mind, letting you later use them with ![Release](https://static.divine-pride.net/images/skill/2230.png) Release to cast the spell instantly.
+
+### ![Crimson Rock](https://static.divine-pride.net/images/skill/2211.png) Crimson Rock
+- Max Level: 5
+- Target: Enemy
+- SP Cost: 50 + (10 x Skill Level)
+- Var. Cast Time: 5.0s
+- Fixed Cast Time: 1.0s
+- Cast Delay: 0.5s
+- Cool Down: 5.0s
+- Range: 11
+
+Call forth a large meteor to strike a target and all enemies in a 7x7 surrounding area, dealing Fire property magic damage.
+All targets hit by the meteor will be knocked back 3 cells.
+
+
+This skills damage is increased based on the casters Base Level.
+
+[Lv 1] : 1300% MATK.
+[Lv 2] : 1900% MATK.
+[Lv 3] : 2500% MATK.
+[Lv 4] : 3100% MATK.
+[Lv 5] : 3700% MATK.
+
+Damage is based on the following formula:
+
+```
+Damage (MATK) = [{Base_Damage × (BaseLevel ÷ 100)}]%
+```
 
 ## Equipment
 
