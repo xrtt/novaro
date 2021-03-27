@@ -107,6 +107,9 @@ Damage (MATK) = [{Base_Damage × (BaseLevel ÷ 100)}]%
 
 ## Equipment
 
+- [Illusion Equipments and Enchants (17.1)](https://www.novaragnarok.com/wiki/Illusion_Equipments_and_Enchants_(17.1))
+- [Automatic Equipments and Enchants (17.2)](https://www.novaragnarok.com/wiki/Automatic_Equipments_and_Enchants_(17.2))
+
 ## See also
 
 - [NovaRO wiki - Warlock](https://www.novaragnarok.com/wiki/Warlock)
