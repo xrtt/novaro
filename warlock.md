@@ -55,6 +55,11 @@ So we need `12 * 7 = 84` or `22 * 4 = 88` slots.
 | `DEX`    | 8  |
 | `LUK`    | 4  |
 
+To reach zero Variable Cast Time with stats only, the following formula has to be used:
+
+```
+DEX × 2 + INT = 530 
+```
 
 ## Skills
 
