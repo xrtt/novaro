@@ -1,5 +1,7 @@
 # farming.md
 
+![adv handbook aloot](aloot.jpg)
+
 `@aloot`
 
 Add to ignore (Geffenia):
