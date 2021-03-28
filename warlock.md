@@ -280,4 +280,15 @@ Each element of Tetra Vortex also has a chance to apply a different status effec
 	- [Tomb of the Fallen Equip (Old Classes' Headgears)](https://www.novaragnarok.com/wiki/Tomb_of_the_Fallen#Rewards_and_Equipment_Crafting)
 	- [Legacy of Glast Heim Equip (Temporal Stat Manteaus)](https://www.novaragnarok.com/wiki/Temporal_Stat_Manteaus)
 	- [Cards (17.2)](https://www.novaragnarok.com/wiki/Cards_(17.2))
-
+	- Crostlock
+		- [1](https://github.com/xrtt/novaro/blob/main/screenNovaRO068.jpg)
+		- [2](https://github.com/xrtt/novaro/blob/main/screenNovaRO069.jpg)
+		- [3](https://github.com/xrtt/novaro/blob/main/screenNovaRO070.jpg)
+		- [4](https://github.com/xrtt/novaro/blob/main/screenNovaRO071.jpg)
+		- [5](https://github.com/xrtt/novaro/blob/main/screenNovaRO072.jpg)
+		- [6](https://github.com/xrtt/novaro/blob/main/screenNovaRO073.jpg)
+		- [7](https://github.com/xrtt/novaro/blob/main/screenNovaRO074.jpg)
+		- [8](https://github.com/xrtt/novaro/blob/main/screenNovaRO075.jpg)
+		- [9](https://github.com/xrtt/novaro/blob/main/screenNovaRO076.jpg)
+		- [10](https://github.com/xrtt/novaro/blob/main/screenNovaRO077.jpg)
+		- [11](https://github.com/xrtt/novaro/blob/main/screenNovaRO078.jpg)
