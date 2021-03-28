@@ -1,13 +1,18 @@
 # farming.md
 
+## Overview
+
+```
+@help
+```
+
 ![adv handbook aloot](aloot.jpg)
 
-`@aloot`
+## M2 settings
 
-M2:
 ![aloot m2](aloot-m2.jpg)
 
-Geffenia:
+## Geffenia settings
 
 Add to ignore:
 - base guitar (10 z, w 150)
@@ -15,3 +20,9 @@ Add to ignore:
 - evil wing
 - Ahlspiess • 1488
 - Battle Hook
+
+## Apply settings
+
+```
+@loadaloot
+```
