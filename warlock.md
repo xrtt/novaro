@@ -110,7 +110,7 @@ Allows you to release stored magic, or fling elemental balls at targets.
 
 Elemental ball damage is increased based on the casters Base Level, and Job Level.
 
-- [Lv 1] : Instantly cast a randomly selected spell that was stored with 2231.png Reading Spellbook. If there are no spells stored, use one elemental ball to strike a target.
+- [Lv 1] : Instantly cast a randomly selected spell that was stored with ![Reading Spellbook](https://static.divine-pride.net/images/skill/2231.png) Reading Spellbook. If there are no spells stored, use one elemental ball to strike a target.
 - [Lv 2] : Release all summoned elemental balls to strike a target with magic damage of the elemental ball type.
 
 ### ![Summon Fire Ball](https://static.divine-pride.net/images/skill/2222.png) Summon Fire Ball
