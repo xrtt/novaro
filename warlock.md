@@ -6,38 +6,15 @@ TODO:
 
 ## Content
 
-- [Mind slots](#Mind-slots)
 - [Stats](#Stats)
 - [Skills](#Skills)
 - [Equipment](#Equipment)
-- [See also](#See-also)
-
-## Mind slots
-
-```math
-mindSlots = freezingSpell * 4 + floor(baseLvl / 10) + floor (INT / 10)
-```
-
-> In NovaRO, `freezingSpell` has `x8` mod.
-
-Max you can have 7 spells in mind.
-![Crimson Rock](https://static.divine-pride.net/images/skill/2211.png) Crimson Rock requires 12 slots,
-![Comet](https://static.divine-pride.net/images/skill/2213.png) Comet and
-![Tetra Vortex](https://static.divine-pride.net/images/skill/2217.png) Tetra Vortex both require 22 slots.
-So we need `12 * 7 = 84` or `22 * 4 = 88` slots.
-
-| `freezingSpell` | `baseLvl` | `INT` | Total |
-| --------------- | --------- | ----- | ----- |
-| 0               | 200       | 120   | 32    |
-| 5               | 200       | 120   | 72    |
-| 6               | 200       | 120   | 80    |
-| 7               | 200       | 120   | 88    |
-| 10              | 200       | 120   | 112   |
+- [References](#References)
 
 ## Stats
 
 | `baseLvl` | 99 | 200 | `jobLvl` bonuses | 70 |
-| --------- | -- | --- | ---------------: | -- |
+| --------- | -- | --- | ---------------- | -- |
 | `STR`     | 1  | 1   | +                | 1  |
 | `AGI`     | 1  | 90  | +                | 7  |
 | `VIT`     | 60 | 90  | +                | 8  |
@@ -92,6 +69,22 @@ The formula to calculate mind slots is:
 ```
 (Freezing Spell Level × 8) + Floor(Base Level ÷ 10) + Floor(Total INT ÷ 10)
 ```
+
+Max you can have 7 spells in mind.
+
+| `freezingSpell` | `baseLvl` | `INT` | Total | Superior (12) | Ultimate (22) |
+| --------------- | --------- | ----- | ----- | ------------- | ------------- |
+| 0               | 200       | 120   | 32    | 2             | 1             |
+| 1               | 200       | 120   | 40    | 3 (+1)        | 1             |
+| 2               | 200       | 120   | 48    | 4 (+1)        | 2 (+1)        |
+| 3               | 200       | 120   | 56    | 4             | 2             |
+| 4               | 200       | 120   | 64    | 5 (+1)        | 2             |
+| 5               | 200       | 120   | 72    | 6 (+1)        | 3 (+1)        |
+| 6               | 200       | 120   | 80    | 6             | 3             |
+| 7               | 200       | 120   | 88    | 7 (+1)        | 4 (+1)        |
+| 8               | 200       | 120   | 96    | 7             | 4             |
+| 9               | 200       | 120   | 104   | 7             | 4             |
+| 10              | 200       | 120   | 112   | 7             | 5 (+1)        |
 
 ### ![Reading Spellbook](https://static.divine-pride.net/images/skill/2231.png) Reading Spellbook
 
@@ -257,15 +250,33 @@ Each element of Tetra Vortex also has a chance to apply a different status effec
 - [Odin's Temple 4 / Odin's Past Equip (Soutanes)](https://www.novaragnarok.com/wiki/Odin%27s_Temple_4_/_Odin%27s_Past#Obtainable_Equipment)
 - [Einbech Dungeon 3 Equip](https://www.novaragnarok.com/wiki/Einbech_Dungeon_3#Obtainable_Equipment)
 - [Abyss Dungeon 4 Equip (Dragon Plates)](https://www.novaragnarok.com/wiki/Abyss_Dungeon_4#Obtainable_Equipment)
-- [Sky Fortress Eqip (Vicious Weapons)](https://www.novaragnarok.com/wiki/Sky_Fortress#Vicious_Weapons)
-- [Fall of Glast Heim Eqip (King Schmidt's Set)](https://www.novaragnarok.com/wiki/Fall_of_Glast_Heim#Equipment)
-- [Tomb of the Fallen Equp (Old Classes' Headgears)](https://www.novaragnarok.com/wiki/Tomb_of_the_Fallen#Rewards_and_Equipment_Crafting)
-- [Legacy of Glast Heim Eqip (Temporal Stat Manteaus)](https://www.novaragnarok.com/wiki/Temporal_Stat_Manteaus)
+- [Sky Fortress Equip (Vicious Weapons)](https://www.novaragnarok.com/wiki/Sky_Fortress#Vicious_Weapons)
+- [Fall of Glast Heim Equip (King Schmidt's Set)](https://www.novaragnarok.com/wiki/Fall_of_Glast_Heim#Equipment)
+- [Tomb of the Fallen Equip (Old Classes' Headgears)](https://www.novaragnarok.com/wiki/Tomb_of_the_Fallen#Rewards_and_Equipment_Crafting)
+- [Legacy of Glast Heim Equip (Temporal Stat Manteaus)](https://www.novaragnarok.com/wiki/Temporal_Stat_Manteaus)
 - [Cards (17.2)](https://www.novaragnarok.com/wiki/Cards_(17.2))
 
-## See also
+## References
 
-- [NovaRO wiki - Warlock](https://www.novaragnarok.com/wiki/Warlock)
-- [NovaRO wiki - Mayo's Warlock Guide](https://www.novaragnarok.com/wiki/Mayo%27s_Warlock_Guide)
-- [iRO wiki - Warlock](https://irowiki.org/wiki/Warlock)
-- [3rd Job Improvement Patch](https://www.novaragnarok.com/forum/news/kro-job-improvement-patch-notes-155-r331/)
+- General
+	- [NovaRO wiki - Warlock](https://www.novaragnarok.com/wiki/Warlock)
+	- [NovaRO wiki - Mayo's Warlock Guide](https://www.novaragnarok.com/wiki/Mayo%27s_Warlock_Guide)
+	- [iRO wiki - Warlock](https://irowiki.org/wiki/Warlock)
+	- [3rd Job Improvement Patch](https://www.novaragnarok.com/forum/news/kro-job-improvement-patch-notes-155-r331/)
+- Skills
+	- [Skill simulator](https://irowiki.org/~himeyasha/skill4/wlk.html)
+	- [4th jobs](https://www.divine-pride.net/forum/index.php?/topic/4672-kro-fourth-class-jobs-skills-info-and-related-items-updated-16092020/&tab=comments#comment-8022)
+- Equipment
+	- [Temporal Boots](https://www.novaragnarok.com/wiki/Temporal_Boots)
+	- [Illusion Equipments and Enchants (17.1)](https://www.novaragnarok.com/wiki/Illusion_Equipments_and_Enchants_(17.1))
+	- [Automatic Equipments and Enchants (17.2)](https://www.novaragnarok.com/wiki/Automatic_Equipments_and_Enchants_(17.2))
+	- [Edda Bioresearch Laboratory Equip](https://www.novaragnarok.com/wiki/Bioresearch_Laboratory#Equipment)
+	- [Odin's Temple 4 / Odin's Past Equip (Soutanes)](https://www.novaragnarok.com/wiki/Odin%27s_Temple_4_/_Odin%27s_Past#Obtainable_Equipment)
+	- [Einbech Dungeon 3 Equip](https://www.novaragnarok.com/wiki/Einbech_Dungeon_3#Obtainable_Equipment)
+	- [Abyss Dungeon 4 Equip (Dragon Plates)](https://www.novaragnarok.com/wiki/Abyss_Dungeon_4#Obtainable_Equipment)
+	- [Sky Fortress Equip (Vicious Weapons)](https://www.novaragnarok.com/wiki/Sky_Fortress#Vicious_Weapons)
+	- [Fall of Glast Heim Equip (King Schmidt's Set)](https://www.novaragnarok.com/wiki/Fall_of_Glast_Heim#Equipment)
+	- [Tomb of the Fallen Equip (Old Classes' Headgears)](https://www.novaragnarok.com/wiki/Tomb_of_the_Fallen#Rewards_and_Equipment_Crafting)
+	- [Legacy of Glast Heim Equip (Temporal Stat Manteaus)](https://www.novaragnarok.com/wiki/Temporal_Stat_Manteaus)
+	- [Cards (17.2)](https://www.novaragnarok.com/wiki/Cards_(17.2))
+
