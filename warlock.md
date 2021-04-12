@@ -246,6 +246,7 @@ Each element of Tetra Vortex also has a chance to apply a different status effec
 - [Temporal Boots](https://www.novaragnarok.com/wiki/Temporal_Boots)
 - [Illusion Equipments and Enchants (17.1)](https://www.novaragnarok.com/wiki/Illusion_Equipments_and_Enchants_(17.1))
 - [Automatic Equipments and Enchants (17.2)](https://www.novaragnarok.com/wiki/Automatic_Equipments_and_Enchants_(17.2))
+- [Sin Weapons and Enchants (17.2)](https://www.novaragnarok.com/wiki/Sin_Weapons_and_Enchants_(17.2))
 - [Edda Bioresearch Laboratory Equip](https://www.novaragnarok.com/wiki/Bioresearch_Laboratory#Equipment)
 - [Odin's Temple 4 / Odin's Past Equip (Soutanes)](https://www.novaragnarok.com/wiki/Odin%27s_Temple_4_/_Odin%27s_Past#Obtainable_Equipment)
 - [Einbech Dungeon 3 Equip](https://www.novaragnarok.com/wiki/Einbech_Dungeon_3#Obtainable_Equipment)
