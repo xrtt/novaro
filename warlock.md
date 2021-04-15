@@ -243,6 +243,7 @@ Each element of Tetra Vortex also has a chance to apply a different status effec
 
 ## Equipment
 
+- [Equipment](equipment.md)
 - Crostlock
 	- [Equip](https://github.com/xrtt/novaro/blob/main/screenNovaRO068.jpg)
 	- [Headgear (T)](https://github.com/xrtt/novaro/blob/main/screenNovaRO069.jpg)
@@ -266,7 +267,7 @@ Each element of Tetra Vortex also has a chance to apply a different status effec
 	- [Skill Rebalance Patch](https://www.novaragnarok.com/forum/news/skill-rebalance-patch-100-r231/)
 	- [3rd Job Improvement Patch](https://www.novaragnarok.com/forum/news/kro-job-improvement-patch-notes-155-r331/)
 	- [4th jobs](https://www.divine-pride.net/forum/index.php?/topic/4672-kro-fourth-class-jobs-skills-info-and-related-items-updated-16092020/&tab=comments#comment-8022)
-- Equipment
+- [Equipment](equipment.md)
 	- [Temporal Boots](https://www.novaragnarok.com/wiki/Temporal_Boots)
 	- [Illusion Equipments and Enchants (17.1)](https://www.novaragnarok.com/wiki/Illusion_Equipments_and_Enchants_(17.1))
 	- [Automatic Equipments and Enchants (17.2)](https://www.novaragnarok.com/wiki/Automatic_Equipments_and_Enchants_(17.2))
