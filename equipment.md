@@ -1,1 +1,17 @@
 # Equipment
+
+- [Temporal Boots](https://www.novaragnarok.com/wiki/Temporal_Boots)
+- [Biolab Gear](https://www.novaragnarok.com/wiki/Biolab_Gear)
+- [Illusion Equipments and Enchants (17.1)](https://www.novaragnarok.com/wiki/Illusion_Equipments_and_Enchants_(17.1))
+- [Automatic Equipments and Enchants (17.2)](https://www.novaragnarok.com/wiki/Automatic_Equipments_and_Enchants_(17.2))
+- [Sin Weapons and Enchants (17.2)](https://www.novaragnarok.com/wiki/Sin_Weapons_and_Enchants_(17.2))
+- [Ancient Hero](https://www.novaragnarok.com/wiki/Ancient_Hero)
+- [Edda Bioresearch Laboratory Equip](https://www.novaragnarok.com/wiki/Bioresearch_Laboratory#Equipment)
+- [Odin's Temple 4 / Odin's Past Equip (Soutanes)](https://www.novaragnarok.com/wiki/Odin%27s_Temple_4_/_Odin%27s_Past#Obtainable_Equipment)
+- [Einbech Dungeon 3 Equip](https://www.novaragnarok.com/wiki/Einbech_Dungeon_3#Obtainable_Equipment)
+- [Abyss Dungeon 4 Equip (Dragon Plates)](https://www.novaragnarok.com/wiki/Abyss_Dungeon_4#Obtainable_Equipment)
+- [Sky Fortress Equip (Vicious Weapons)](https://www.novaragnarok.com/wiki/Sky_Fortress#Vicious_Weapons)
+- [Fall of Glast Heim Equip (King Schmidt's Set)](https://www.novaragnarok.com/wiki/Fall_of_Glast_Heim#Equipment)
+- [Tomb of the Fallen Equip (Old Classes' Headgears)](https://www.novaragnarok.com/wiki/Tomb_of_the_Fallen#Rewards_and_Equipment_Crafting)
+- [Legacy of Glast Heim Equip (Temporal Stat Manteaus)](https://www.novaragnarok.com/wiki/Temporal_Stat_Manteaus)
+- [Cards (17.2)](https://www.novaragnarok.com/wiki/Cards_(17.2))
