@@ -1,4 +1,8 @@
 # NovaRO
 
-- [Warlock](warlock.md)
+## General
+- [Equipment](equipment.md)
 - [Farming zeny](farming.md)
+
+## Classes
+- [Warlock](warlock.md)
