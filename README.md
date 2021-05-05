@@ -22,6 +22,7 @@
 
 ## Classes
 
+- [Genetic](Genetic.md)
 - [Warlock](warlock.md)
 
 ## References
