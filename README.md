@@ -9,6 +9,17 @@
 - [Equipment](equipment.md)
 - [Farming zeny](farming.md)
 
+## Crafting
+
+- [Arrow Crafting](https://irowiki.org/wiki/Arrow_Crafting)
+- Brewing
+  - [Change Material](https://irowiki.org/wiki/Change_Material)
+  - [Mixed Cooking](https://irowiki.org/wiki/Mixed_Cooking)
+  - [Potion Creation](https://irowiki.org/wiki/Potion_Creation)
+- [Cooking](https://irowiki.org/wiki/Cooking)
+- [Forging](https://irowiki.org/wiki/Forging)
+- [Item Mixing](https://irowiki.org/wiki/Item_Mixing)
+
 ## Classes
 
 - [Warlock](warlock.md)
