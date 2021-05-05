@@ -6,11 +6,11 @@
 @help
 ```
 
-![adv handbook aloot](aloot.jpg)
+![adv handbook aloot](img/aloot.jpg)
 
 ## M2 settings
 
-![aloot m2](aloot-m2.jpg)
+![aloot m2](img/aloot-m2.jpg)
 
 ## Geffenia settings
 
