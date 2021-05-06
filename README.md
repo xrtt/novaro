@@ -2,6 +2,7 @@
 
 - [General](#General)
 - [Classes](#Classes)
+- [Crafting](#Crafting)
 - [References](#References)
 
 ## General

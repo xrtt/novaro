@@ -25,6 +25,11 @@
 
 ## Brewing
 
+- [Change Material](https://irowiki.org/wiki/Change_Material)
+- [Mixed Cooking](https://irowiki.org/wiki/Mixed_Cooking)
+- [Potion Creation](https://irowiki.org/wiki/Potion_Creation)
+- [Cooking](https://irowiki.org/wiki/Cooking)
+
 ## References
 
 - General
