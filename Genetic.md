@@ -1,5 +1,13 @@
 # Genetic
 
+## Content
+
+- [Stats](#Stats)
+- [Skills](#Skills)
+- [Equipment](#Equipment)
+- [Brewing](#Brewing)
+- [References](#References)
+
 ## Stats
 
 | `baseLvl` | 99 | 200 | `jobLvl` bonuses | 70 |
@@ -11,9 +19,11 @@
 | `DEX`     |    |     | +                | 8  |
 | `LUK`     |    |     | +                | 4  |
 
+## Skills
+
+## Equipment
+
 ## Brewing
-
-
 
 ## References
 
