@@ -12,6 +12,8 @@
 
 ## Crafting
 
+[Creation Database](https://www.novaragnarok.com/wiki/Creation_Database):
+
 - [Arrow Crafting](https://irowiki.org/wiki/Arrow_Crafting)
 - Brewing
   - [Change Material](https://irowiki.org/wiki/Change_Material)
