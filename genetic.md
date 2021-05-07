@@ -103,5 +103,6 @@ Damage (ATK) = [Base_Damage + {Int * 2 / (6 - Cart Remodeling skill level)}]%
 	- [NovaRO wiki - Genetic](https://www.novaragnarok.com/wiki/Genetic)
 	- [NovaRO wiki - How to Genetic? by AloeLeaflet](https://www.novaragnarok.com/wiki/How_to_Genetic%3F_by_AloeLeaflet)
 	- [NovaRO wiki - Play Genetic with Alice](https://www.novaragnarok.com/wiki/Play_Genetic_with_Alice)
+	- [YouTube - NovaRO | Cart Cannon Genetic | 100% VCT (Instant Cast) | Geffenia Farming Build](https://www.youtube.com/watch?v=fkXoOEY2W50)
 	- [iRO wiki - Genetic](https://irowiki.org/wiki/Geneticist)
 	- [Skill simulator](https://irowiki.org/~himeyasha/skill5/gen.html)
