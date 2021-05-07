@@ -21,6 +21,73 @@
 
 ## Skills
 
+### ![Acid Demonstration](https://static.divine-pride.net/images/skill/490.png) Acid Demonstration
+
+- Max Level: 10
+- Target: Enemy
+- SP Cost: 50
+- Fixed Cast Time: 1.0s
+- Cast Delay: 1.0s
+- Range: 9
+- Cooldown: 0.15s
+- Consumes 1 Bottle Grenade
+- Consumes 1 Acid Bottle
+    
+Throw a Acid Bottle and Bottle Grenade at a target to deal long ranged physical damage.
+
+Has a chance to destroy the targets Armor and Weapon.
+
+This skills animation shows 10 hits regardless of skill level.
+
+Damage is increased based on your INT, and the targets VIT.
+
+This skill deals only long ranged physical damage.
+
+This skills element is determined by your weapon property.
+
+- [Lv 1] : 200% ATK, 1% Chance to destroy the targets Armor and Weapon.
+- [Lv 2] : 400% ATK, 2% Chance to destroy the targets Armor and Weapon.
+- [Lv 3] : 600% ATK, 3% Chance to destroy the targets Armor and Weapon.
+- [Lv 4] : 800% ATK, 4% Chance to destroy the targets Armor and Weapon.
+- [Lv 5] : 1000% ATK, 5% Chance to destroy the targets Armor and Weapon.
+- [Lv 6] : 1200% ATK, 6% Chance to destroy the targets Armor and Weapon.
+- [Lv 7] : 1400% ATK, 7% Chance to destroy the targets Armor and Weapon.
+- [Lv 8] : 1600% ATK, 8% Chance to destroy the targets Armor and Weapon.
+- [Lv 9] : 1800% ATK, 9% Chance to destroy the targets Armor and Weapon.
+- [Lv10] : 2000% ATK, 10% Chance to destroy the targets Armor and Weapon.
+    
+### ![Cart Cannon](https://static.divine-pride.net/images/skill/2477.png) Cart Cannon
+
+- Max Level: 5
+- Target: Enemy
+- SP Cost: 40:42:46:48:50
+- Var. Cast Time: 1.0s:1.5s:2.0s:2.5s:3.0s
+- Cast Delay: 0.5s
+- Range: 8:9:10:11:12
+- Requires a push cart
+- Required ammo type: Cannonballs
+- Required ammo amount: 1
+    
+Shoot a cannonball from your cart at a target to damage them and all nearby enemies.
+
+Damage from this skill is forced to the element of the cannonball equipped.
+
+Damage is increased based on INT, Base Level and 2475.png Cart Remodeling.
+
+This skill treats Hard DEF as Soft DEF.
+
+- [Lv 1] : 250 + (20 x Cart Remodeling skill level)% ATK, 3x3 Area of effect.
+- [Lv 2] : 500 + (40 x Cart Remodeling skill level)% ATK, 3x3 Area of effect.
+- [Lv 3] : 750 + (60 x Cart Remodeling skill level)% ATK, 5x5 Area of effect.
+- [Lv 4] : 1000 + (80 x Cart Remodeling skill level)% ATK, 5x5 Area of effect.
+- [Lv 5] : 1250 + (100 x Cart Remodeling skill level)% ATK, 7x7 Area of effect.
+
+Damage is based on the following formula:
+
+```
+Damage (ATK) = [Base_Damage + {Int * 2 / (6 - Cart Remodeling skill level)}]% 
+```
+
 ## Equipment
 
 ## Brewing
