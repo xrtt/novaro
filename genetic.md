@@ -93,7 +93,17 @@ Damage (ATK) = [Base_Damage + {Int * 2 / (6 - Cart Remodeling skill level)}]%
 ## Brewing
 
 - [Change Material](https://irowiki.org/wiki/Change_Material)
-- [Mixed Cooking](https://irowiki.org/wiki/Mixed_Cooking)
+### [Mixed Cooking](https://irowiki.org/wiki/Mixed_Cooking)
+
+#### ![Savage BBQ](https://static.divine-pride.net/images/skill/12429.png) Savage BBQ
+
+| Effect                       | Materials                                                                                 |
+| ---------------------------- | ----------------------------------------------------------------------------------------- |
+| Gives Str +20 for 5 minutes. | ![Melange Pot](https://static.divine-pride.net/images/skill/6248.png) 1 Melange Pot       |
+|                              | ![Cooking Skewer](https://static.divine-pride.net/images/skill/6250.png) 1 Cooking Skewer |
+|                              | ![Black Charcoal](https://static.divine-pride.net/images/skill/6251.png) 1 Black Charcoal |
+|                              | ![Savage Meat](https://static.divine-pride.net/images/skill/6249.png) 1 Savage Meat   
+
 - [Potion Creation](https://irowiki.org/wiki/Potion_Creation)
 - [Cooking](https://irowiki.org/wiki/Cooking)
 
